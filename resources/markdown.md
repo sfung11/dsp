@@ -171,7 +171,8 @@ What is the most installed language in the world?
 - Spark
 - Javascript
 
->>REPLACE THIS TEXT WITH YOUR RESPONSE
+
+Depending on the source, the answer could be Java or Javascript, but Java isn't an option. According to [this site](https://www.techworm.net/2016/09/top-10-popular-programming-languages-github.html), Javascript is the most popular language on GitHub. Looking at a survey released by [StackOverflow](http://stackoverflow.com/insights/survey/2016#technology), Javascript is tops for popular technology. 
 
 ***
 
@@ -195,7 +196,7 @@ In the scikit-learn's official source repo, about how many issues are outstandin
 3. 700  
 4. 7000  
 
->>REPLACE THIS TEXT WITH YOUR RESPONSE
+There are about **700** outstanding issues on this repo.
 
 ---
 
