@@ -48,13 +48,13 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed Python 3 even though I started learning Python (2) via codacademy. As a novice user, I think it will be useful to get familiar with the newest version (might as well!) and understand how to implement using a legacy version if necessary.
 
 ###Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Assuming that Python is installed on a computer, one can initialize an editor and type help() at the prompt. That should let the user know what version is installed.
 
  
 
