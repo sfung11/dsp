@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will use vim for terminal editing. After briefly working with all 3, it was a gut reaction to the commands required to save and exit out of the shell. Needing to hit Esc to get to command mode and then seeing the "command line" is a feature that I like.
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will use PyCharm. I remember some people at a Pyladies Meetup recommending it and I have some programming friends that enjoy using it as well. Doing some research it seems that VSCode is also very popular and that was another option I was considering. I like that PyCharm provides an environment that is ready to use. I have customized to the extent of choosing a dark background; many other options are available by going to the Preferences menu. I also like that some of the keyboard shortcuts are similar to vim. An example is "quit", :w in vim, command+w in Pycharm. Other useful shortcuts are Save, Create New, Cut, Copy, and Paste, which are very intuitive as they are the same keystrokes as using anything else in ios. As a new ios user, this is convenient. 
 
  
