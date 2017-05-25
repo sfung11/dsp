@@ -19,17 +19,17 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > pwd : shows current working directory path (stands for print working directory)
-    mkdir : creates a directory
-    rmdir : deletes a directory
-    touch : quick and easy way to create a new file (also is capable of updating the access date to a file, just happens to create a new file if it doesn't already exist)
-    rm : removes a file
-    mv : moves (renames) a file
-    ls -a : lists hidden files
-    cp : copies one file from one directory to another
-    pushd: bookmarks my current location and moves to whatever location was specified
-    popd : "pops" back to the location bookmarked by pushd
-    less : prints the contents of a file (or the 
+> > pwd : shows current working directory path (stands for print working directory). 
+    mkdir : creates a directory. 
+    rmdir : deletes a directory. 
+    touch : quick and easy way to create a new file (also is capable of updating the access date to a file, just happens to create a new file if it doesn't already exist). 
+    rm : removes a file. 
+    mv : moves (renames) a file. 
+    ls -a : lists hidden files. 
+    cp : copies one file from one directory to another. 
+    pushd: bookmarks my current location and moves to whatever location was specified. 
+    popd : "pops" back to the location bookmarked by pushd. 
+    less : prints the contents of a file on a new page, "space" to scroll, "q" to quit/escape back to prompt. 
 
 ---
 
@@ -44,7 +44,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls : lists 
 
 ---
 
