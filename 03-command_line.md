@@ -44,7 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > ls : lists 
+> > ls : lists directory contents.  
+ls -a : lists directory contents, including hidden files and directories.  
+ls -l : lists directory contents in long form. The information contains access rights, the number of hard links (aka labels), file name owner, file name group, size in bytes, date of last modification, file name.  
+ls -lh : lists directory contents in long form and include unit suffixes.  
+ls -lah : lists directory contents in long form, including hidden files, and include unit suffixes.  
+ls -t : lists directory contents ordered by time stamp (newest modification listed first).  
+ls -Glp : lists directory contents in long form, include a "/" following any directory names, colorize directory names.  
 
 ---
 
@@ -52,7 +58,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > -p : labels directories with a "/" character.  
+-F : labels file types with a special character, acts like a detailed -p.  
+-d : lists only directories.  
+-u : orders files by file access time.  
+-R : shows subdirectories.
 
 ---
 
@@ -60,7 +70,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs
 
  
 
