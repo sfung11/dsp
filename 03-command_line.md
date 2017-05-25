@@ -19,9 +19,10 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > pwd : shows current working directory path (stands for print working directory). 
-    mkdir : creates a directory. 
-    rmdir : deletes a directory. 
+> > 
+  pwd : shows current working directory path (stands for print working directory). 
+  mkdir : creates a directory.  
+  rmdir : deletes a directory. 
     touch : quick and easy way to create a new file (also is capable of updating the access date to a file, just happens to create a new file if it doesn't already exist). 
     rm : removes a file. 
     mv : moves (renames) a file. 
