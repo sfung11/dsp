@@ -70,7 +70,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > xargs is able to divide up a large list of arguments into smaller chunks in order to feed into a function. ie pass **x** number of **arg**(ument)**s**. In this example, I want to find all text files and search for the word "inflammation" in the resulting text files:  
+> > The function xargs is able to divide up a large list of arguments into smaller chunks in order to feed into a function. ie pass **x** number of **arg**(ument)**s**. In this example, I want to find all text files and search for the word "inflammation" in the resulting text files:  
 ```unix
 find . -name "*.txt" | xargs grep "inflammation" 
 
