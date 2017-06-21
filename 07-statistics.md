@@ -92,6 +92,7 @@ P(identical | male twin) = (P(male | identical) * P(identical)) / P(male twin)
                          = 1 * (1/300) / (1 * (1/300)) + ((1/2) * (1/125))
                          = (1/300) / (11/1500)
                          = 5/11 (~45.5%)
+```
 
 ---
 
