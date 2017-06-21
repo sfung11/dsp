@@ -2,7 +2,7 @@
 
 >> 
 ```python
-print(CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)).   
+print(CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb))   
 firsts.totalwgt_lb.std(), others.totalwgt_lb.std() 
 ```
 Cohen's d allows one to compare the difference between groups to the variability between groups. The resulting value unit is number of standard deviations.
