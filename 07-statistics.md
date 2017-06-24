@@ -99,7 +99,7 @@ P(identical | male twin) = (P(male | identical) * P(identical)) / P(male twin)
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> In the previous question, I arrived at an answer which benefited from knowing what the incidence of fraternal and identical twins is. There are factors (ie conditional probabilities) that influence the answer that I get. In a frequentist view, the probability is based strictly on results derived from experiments. In this way, the experiments make up the "world space" that the possible outcomes exist in. Depending on the situation, it might not be a good decision to choose a frequentist approach when dealing with small sample size (small number of experiments) or when considering probability for a rare disease.
 
 ---
 
